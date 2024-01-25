@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\db",
+    "\\src\\Sidebar",
+    "\\src\\Sidebar\\Category",
+    "\\src\\Sidebar\\Price"
+  ],
+  "SelectedNode": "\\src\\Sidebar\\Category\\Category.js",
+  "PreviewInSolutionExplorer": false
+}
